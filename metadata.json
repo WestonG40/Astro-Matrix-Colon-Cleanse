@@ -1,0 +1,6 @@
+{
+  "name": "AstroMatrix",
+  "description": "Interstellar exploration game featuring procedural galaxy generation, realistic orbital gravity physics, and tactical matrix chess battles across the cosmos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
